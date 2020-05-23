@@ -100,9 +100,9 @@ Be careful when you submit your paper to ArXiV.
 Submit the main LaTeX files in a .tag compressed file. In my case, such main files are: paper_neurips.tex, neurips_2019.sty, images (folder), paper_neurips.bbl (generated from the references.bib at Step 2 of compiling).
 
 
-# Credits #
+## About ##
 
-Dennis Núñez Fernández
+By: Dennis Núñez-Fernández
 
-Visit my personal website: [http://dennishnf.bitbucket.io](http://dennishnf.bitbucket.io).
+Website: [http://dennishnf.com](http://dennishnf.com)
 
